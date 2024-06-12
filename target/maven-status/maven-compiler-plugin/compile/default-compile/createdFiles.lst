@@ -1,0 +1,17 @@
+com\msc\ms\processor\security\filter\JwtFilter.class
+com\msc\ms\processor\security\filter\HeaderRequestInterceptor.class
+com\msc\ms\processor\users\UserRequestDTO$UserRequestDTOBuilder.class
+com\msc\ms\processor\security\JwtService.class
+com\msc\ms\processor\users\UserJsonDTO.class
+com\msc\ms\processor\users\UserSenderService.class
+com\msc\ms\processor\configuration\BeansConfiguration.class
+com\msc\ms\processor\file\IFileService.class
+com\msc\ms\processor\MscMsProccesorApplication.class
+com\msc\ms\processor\users\UserController.class
+com\msc\ms\processor\security\CryptoService.class
+com\msc\ms\processor\configuration\RabbitMqConfiguration.class
+com\msc\ms\processor\users\UserRequestDTO.class
+com\msc\ms\processor\users\UserSenderService$1.class
+com\msc\ms\processor\configuration\SecurityConfiguration.class
+com\msc\ms\processor\configuration\MetricsConfiguration.class
+com\msc\ms\processor\configuration\ModelMapperConfiguration.class
