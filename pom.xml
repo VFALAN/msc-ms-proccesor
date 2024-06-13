@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.msc.ms.processor</groupId>
 	<artifactId>msc-ms-proccesor</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-BETA</version>
 	<name>msc-ms-proccesor</name>
 	<description>Project to run process in back ground</description>
 	<properties>
