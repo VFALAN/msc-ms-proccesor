@@ -12,6 +12,7 @@ pipeline {
         }
         stage('Build Project') {
             steps {
+            bat 'set LOKI_URL=http://localhost:3100/loki/api/v1/push'
                 bat 'mvn clean package' // Adjust command for your build tool (e.g., Gradle: ./gradlew clean build)
             }
         }
